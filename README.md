@@ -16,7 +16,7 @@ CNVD对该漏洞的综合评级为“高危”。
 - 将获取的ip保存到本地 **ips.txt** 文档
 - 运行以下命令：
 ```bash
-python ollama_unauth CNVD-2025-04094.py
+python ollama_unauth_CNVD-2025-04094.py
 ```
 - 查看同目录的2.xlsx 获取结果。
 
