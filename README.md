@@ -19,3 +19,5 @@ CNVD对该漏洞的综合评级为“高危”。
 python ollama_unauth CNVD-2025-04094.py
 ```
 - 查看同目录的2.xlsx 获取结果。
+
+参考：[Ollama API文档](https://www.llamafactory.cn/ollama-docs/api.html)
